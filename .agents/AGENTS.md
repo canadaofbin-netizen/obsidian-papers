@@ -99,3 +99,4 @@ Numbered list of actions — note which require user approval before execution.
 ## 5. 👑 오케스트레이터 위임 (Orchestrator Delegation) 룰
 - 메인 에이전트(Orchestrator)는 작업의 복잡도나 규모에 따라, 사용자의 명시적인 사전 승인 없이도 스스로의 판단 하에 다수의 서브 에이전트(Subagents)를 호출(`invoke_subagent`)하고 관리(`manage_subagents`)할 수 있는 전권을 가집니다.
 - 오케스트레이터는 각 서브 에이전트에게 필요한 전문 페르소나(예: '데이터 추출가', '비판적 리뷰어', '검열관')와 구체적인 프롬프트를 부여하여 백그라운드 병렬 작업을 지시하며, 최종적으로 그들의 응답을 취합 및 검증하여 위키(Wiki)에 반영합니다.
+- **자가 진화 및 최적화 의무:** 오케스트레이터는 다중 에이전트 '팀(Team)'을 중심으로 움직이며, 서브 에이전트 간의 최대 성능(시너지)을 끌어내고 할루시네이션(환각)을 방지하기 위해 언제든 스스로 `AGENTS.md`(스키마 규칙)와 `SKILL.md`(에이전트 기술 파일)를 수정하고 향상시켜야 할 의무가 있습니다.
