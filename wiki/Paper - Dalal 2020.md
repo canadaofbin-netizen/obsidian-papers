@@ -30,3 +30,4 @@ Because the strong situation only sealed one specific outlet, the conserved beha
 ## Concept Hub Links
 * [[Organizational Thermodynamics and Behavioral Entropy]]
 * [[The Free Energy Paradigm of Organizational Control]]
+* [[Active Inference and Generative Priors in Workplaces]]

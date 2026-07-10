@@ -25,3 +25,4 @@ Thus, strain is not merely a reaction to psychological demands; it is the physic
 ## Concept Hub Links
 * [[Organizational Thermodynamics and Behavioral Entropy]]
 * [[The Free Energy Paradigm of Organizational Control]]
+* [[Active Inference and Generative Priors in Workplaces]]

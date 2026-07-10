@@ -23,3 +23,4 @@ While Judge and Zapata frame their findings in traditional organizational behavi
 ## Concept Hub Links
 * [[Active Inference and Generative Priors in Workplaces]]
 * [[The Free Energy Paradigm of Organizational Control]]
+* [[Organizational Thermodynamics and Behavioral Entropy]]

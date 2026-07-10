@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#situational-strength",
+                "query": "tag:#paper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,6 +181,12 @@
   },
   "active": "21f69315b5acd474",
   "lastOpenFiles": [
+    "wiki/synthesis/cross_link.py",
+    "wiki/synthesis/generate_debate.py",
+    "wiki/synthesis/Thermodynamic_100_Round_Debate.md",
+    "wiki/concepts/The Free Energy Paradigm of Organizational Control.md",
+    "wiki/concepts/Active Inference and Generative Priors in Workplaces.md",
+    "wiki/concepts/Organizational Thermodynamics and Behavioral Entropy.md",
     "wiki/Paper - Calderwood 2023.md",
     "wiki/Paper - Dalal 2020.md",
     "wiki/Paper - Judge 2015.md",
@@ -210,14 +216,8 @@
     "raw/sources/Calderwood et al. - 2023 - Situational Strength as a Lens to Understand the Strain Implications of Extra-Normative Work.pdf",
     "raw/sources/Judge and Zapata - 2015 - The Person–Situation Debate Revisited Effect of Situation Strength and Trait Activation on the Vali.pdf",
     "get_pdfs.py",
-    "raw/sources/Guest and Martin - 2021 - How Computational Modeling Can Force Theory Building in Psychological Science.pdf",
     "Meta-Analysis.md",
     "wiki/index.md",
-    "wiki/Attention Mechanism.md",
-    "wiki/Cross-modal Plasticity.md",
-    "wiki/Predictive Coding.md",
-    "wiki/Situational Strength.md",
-    "wiki/Paper - Kriegeskorte et al 2008 - RSA.md",
-    "wiki/Paper - Meyer et al 2009 - Situational strength.md"
+    "wiki/Attention Mechanism.md"
   ]
 }

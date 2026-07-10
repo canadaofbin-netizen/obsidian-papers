@@ -30,3 +30,4 @@ From this radical perspective, personality traits and organizational structures 
 ## Concept Hub Links
 * [[Active Inference and Generative Priors in Workplaces]]
 * [[The Free Energy Paradigm of Organizational Control]]
+* [[Organizational Thermodynamics and Behavioral Entropy]]
