@@ -3,6 +3,7 @@ title: Paper - Meyer 2009
 authors: Rustin D. Meyer, Reeshad S. Dalal, Silvia Bonaccio
 year: 2009
 tags:
+  - paper
   - situational_strength
   - conscientiousness
   - meta-analysis

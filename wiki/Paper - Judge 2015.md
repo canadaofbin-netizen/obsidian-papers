@@ -1,3 +1,9 @@
+---
+tags:
+  - paper
+  - situational-strength
+---
+
 # Paper - Judge 2015
 
 ## Metadata
