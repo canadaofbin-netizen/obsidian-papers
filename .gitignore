@@ -12,9 +12,4 @@ __pycache__/
 
 # Do NOT ignore the Obsidian configs, scripts, and prompts
 
-# Ignore personal knowledge data and dashboards
-wiki/sources/*.md
-wiki/concepts/*.md
-wiki/entities/*.md
-index.md
-log.md
+
