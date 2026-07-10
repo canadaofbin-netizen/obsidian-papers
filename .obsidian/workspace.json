@@ -11,10 +11,14 @@
             "id": "8754f90dd0b5c34e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -191,24 +195,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "8754f90dd0b5c34e",
+  "active": "5c6a75298805d91a",
   "lastOpenFiles": [
+    "log.md",
+    "index.md",
+    "wiki/concepts/Concept - Situational Strength.md",
+    "wiki/concepts/Concept - Situation-Outcome Mismatch.md",
+    "wiki/concepts/Concept - Extra-Normative Work.md",
     "wiki/entities",
     "wiki/sources/Source - Calderwood (2023).md",
     "wiki/concepts/Concept - Situational Strength (상황 강도).md",
-    "wiki/concepts/Concept - Extra-Normative Work.md",
     "wiki/concepts/Concept - Interactionist Model.md",
-    "wiki/concepts/Concept - Situation-Outcome Mismatch.md",
-    "wiki/concepts/Concept - Situational Strength.md",
     "wiki/sources/Source - Judge (2015).md",
-    "log.md",
     "wiki/concepts/Concept - Extra-Normative Work (비정형 노동).md",
     "wiki/concepts/Concept - Interactionist Model (상호작용론 모델).md",
     "wiki/concepts/Concept - Situation-Outcome Mismatch (상황-결과 불일치).md",
     "wiki/sources/Source - Meyer (2009).md",
     "wiki/sources/Source - Dalal (2020).md",
     "README.md",
-    "index.md",
     "wiki/concepts/Concept - The Dark Side of Situational Strength.md",
     "wiki/synthesis/Relationship - The Fragmentation of Situational Strength.md",
     "Untitled.canvas",
@@ -229,7 +233,6 @@
     "wiki/concepts",
     "wiki",
     "tests/test_tier5_adversarial_challenger.py",
-    "tests/test_tier4_real_world.py",
     "Untitled 1.canvas"
   ]
 }
