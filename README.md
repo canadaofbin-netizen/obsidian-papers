@@ -8,7 +8,6 @@ This repository serves as both the core universal engine for the LLM-Wiki ecosys
 Unlike typical closed-off vaults, this repository is fully public and transparent. It contains a complete, AI-generated knowledge graph demonstrating how the AI swarm autonomously ingests, translates, and semantically links academic papers into a unified network.
 
 - **Current Showcase Topic:** "Situational Strength"
-- **Language:** 100% English (Global Standard enforced by the Orchestrator)
 
 ## 📁 Structure
 - `index.md`: The main dashboard tracking all sources and concepts.
