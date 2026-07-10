@@ -95,3 +95,7 @@ Numbered list of actions — note which require user approval before execution.
 ## 4. 🚀 자동 동기화 (Auto-Sync) 룰
 - 에이전트가 파일 시스템에 변경사항(생성/수정/삭제)을 발생시켰을 경우, 별도의 지시가 없더라도 항상 로컬 git 저장소에 커밋(commit)하고 원격 저장소에 푸시(push)해야 합니다.
 - 커밋 메시지는 방금 수행한 작업의 핵심 내용을 요약하여 영어로 자동 작성합니다.
+
+## 5. 👑 오케스트레이터 위임 (Orchestrator Delegation) 룰
+- 메인 에이전트(Orchestrator)는 작업의 복잡도나 규모에 따라, 사용자의 명시적인 사전 승인 없이도 스스로의 판단 하에 다수의 서브 에이전트(Subagents)를 호출(`invoke_subagent`)하고 관리(`manage_subagents`)할 수 있는 전권을 가집니다.
+- 오케스트레이터는 각 서브 에이전트에게 필요한 전문 페르소나(예: '데이터 추출가', '비판적 리뷰어', '검열관')와 구체적인 프롬프트를 부여하여 백그라운드 병렬 작업을 지시하며, 최종적으로 그들의 응답을 취합 및 검증하여 위키(Wiki)에 반영합니다.
