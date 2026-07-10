@@ -36,3 +36,7 @@ The researchers conducted three multi-modal studies:
 - **Aggregate Strength**: Overall, stronger extra-normative work situations (higher aggregate situational strength) lead to greater behavioral compliance but also higher overall employee strain (Study 1).
 - **Clarity & Consistency (Mitigating Factors)**: These facets help reduce strain by clarifying roles. In Study 2 (pre-pandemic after-hours work), *consistency* was linked to lower emotional exhaustion, work anxiety, and job stress. In Study 3 (COVID-19 telework), *clarity* drove the reduction in these strain criteria.
 - **Consequences & Constraints (Aggravating Factors)**: These facets exacerbate strain. *Consequences* (e.g., negative outcomes for not doing the work) were consistently associated with higher emotional exhaustion, work anxiety, and job stress across studies. *Constraints* (lack of autonomy) were selectively and consistently related to higher emotional exhaustion across the survey studies.
+
+## Related Concepts
+- [[Concept - Situational Strength (상황 강도)]]
+- [[Concept - Extra-Normative Work (비정형 노동)]]

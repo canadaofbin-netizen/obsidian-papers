@@ -40,3 +40,7 @@ The study uses meta-analysis to demonstrate that occupation-level **situational 
 - **Constraints**: High constraints significantly reduced the conscientiousness-overall performance relationship (β = -.16, p < .05) and marginally reduced it for task performance (β = -.16, p < .10).
 - **Consequences**: High consequences significantly weakened the relationship for both overall performance (β = -.23, p < .05) and task performance (β = -.21, p < .05).
 - **Global Situational Strength**: Global situational strength had a significant moderating effect for both overall performance (β = -.26, p < .01) and task performance (β = -.22, p < .05). For example, in strong occupations like "nuclear equipment operation technician", the correlation was around *r* = .09, whereas in weak occupations like "barber", it rose to *r* = .23.
+
+## Related Concepts
+- [[Concept - Situational Strength (상황 강도)]]
+- [[Concept - Interactionist Model (상호작용론 모델)]]

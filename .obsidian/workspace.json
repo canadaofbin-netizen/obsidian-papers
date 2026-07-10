@@ -11,10 +11,14 @@
             "id": "21f69315b5acd474",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "wiki/sources/Source - Calderwood (2023).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Source - Calderwood (2023)"
             }
           }
         ]
@@ -179,6 +183,10 @@
   },
   "active": "21f69315b5acd474",
   "lastOpenFiles": [
+    "wiki/concepts/Concept - Extra-Normative Work (비정형 노동).md",
+    "wiki/concepts/Concept - Interactionist Model (상호작용론 모델).md",
+    "wiki/concepts/Concept - Situation-Outcome Mismatch (상황-결과 불일치).md",
+    "wiki/concepts/Concept - Situational Strength (상황 강도).md",
     "wiki/sources/Source - Meyer (2009).md",
     "wiki/sources/Source - Judge (2015).md",
     "wiki/sources/Source - Dalal (2020).md",
@@ -209,10 +217,6 @@
     "pipeline.log",
     "wiki/synthesis",
     "wiki/concepts",
-    "wiki/Fact - Why Johnny Cant Use Agents Industry Aspirations vs User Realities with AI Agents.md",
-    "wiki/Fact - Why Are Web AI Agents More Vulnerable Than Standalone LLMs A Security Analysis.md",
-    "wiki/Fact - When Should AI Read the Room Public Perceptions of Social Intelligence in AI Agents.md",
-    "wiki/Fact - When AI Agents Touch CICD Configurations Frequency and Success.md",
     "wiki",
     "tests/test_tier5_adversarial_challenger.py",
     "tests/test_tier4_real_world.py",

@@ -37,3 +37,7 @@ The researchers conducted a literature search of primary studies (yielding 125 c
 - **Outcome-based Situation Strength**: The results for situation strength concerning *outcomes* (i.e., severe consequences of error, high responsibility) were mixed. High outcome constraints only significantly attenuated the predictive validity of two traits: Agreeableness and Openness.
 - **Relative Importance**: While situation strength is a significant general predictor of personality validities, dominance analyses revealed that trait activation variables were generally more dominant/important in explaining the variance in validities for four of the five traits (especially Extraversion). However, situation strength was more important than trait activation for predicting the validity of Openness.
 - **Conclusion on Situation Strength**: The findings empirically validate that situational strength (particularly regarding work process) serves as a general environmental constraint or facilitator—when situations are weak, the validity of personality traits in predicting job performance is often double what it is in typical contexts.
+
+## Related Concepts
+- [[Concept - Situational Strength (상황 강도)]]
+- [[Concept - Interactionist Model (상호작용론 모델)]]

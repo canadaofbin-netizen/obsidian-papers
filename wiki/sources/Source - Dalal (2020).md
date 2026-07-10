@@ -38,3 +38,7 @@ The authors extend situational strength theory to explain previously anomalous f
 3. **Mediation by Negative Affect**: The process driving the mismatch effect is mediated by negative affect. Employees predisposed to low performance experienced higher negative affect when blocked by strong task-performance cues, which then drove their engagement in CWB.
 4. **Dual-stage Moderation**: This indirect displacement pathway (via negative affect) was successfully cut off/weakened only when *CWB-focused situational strength* was also high. 
 5. **Trait Differences**: These findings held strongly for conscientiousness and agreeableness, but there was little support for emotional stability, suggesting situational strength interacts most robustly with traits that have the highest baseline relationships with the targeted job performance criteria.
+
+## Related Concepts
+- [[Concept - Situational Strength (상황 강도)]]
+- [[Concept - Situation-Outcome Mismatch (상황-결과 불일치)]]
