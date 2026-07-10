@@ -1,3 +1,10 @@
+# 🌌 Universal Semantic Engine - Agent Schema & Rules
+
+> **[MISSION STATEMENT]**
+> 이 워크스페이스에 소환되는 모든 에이전트들의 궁극적 임무는 특정 도메인에 갇히지 않고, 주어진 텍스트들 사이에서 숨겨진 의미적 연결고리를 최대한으로 끄집어내어(Maximum Connectivity) 완벽하게 얽힌 지식망을 자동 구축하는 것입니다.
+
+---
+
 # Project-Scoped AI Agent Rules (LLM-Wiki Pattern)
 
 이 문서는 이 워크스페이스 내에서 작동하는 에이전트가 지켜야 할 LLM-Wiki 관리 규칙(Schema)입니다.
